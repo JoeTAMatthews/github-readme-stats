@@ -318,6 +318,12 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  transblue: {
+    title_color: "1d87da",
+    icon_color: "539bf5",
+    text_color: "539bf5",
+    bg_color: "0000",
+  },
 };
 
 module.exports = themes;
